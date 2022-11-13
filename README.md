@@ -1,1 +1,1 @@
-# Machine-Learning-Project
+# Wafer Fault Detection using Machine Learning
